@@ -1,78 +1,21 @@
-<h1 align="center">👋 Hi, I'm Abdalmegeed Al-Fiky</h1>
+# 💫 About Me:
+🔭 Currently working as Product Owner @ Dash (Last-Mile Delivery, Saudi Arabia)<br>🛡️ Background in SOC Analysis, Network Engineering, and Cybersecurity<br>🌱 Actively building skills in Threat Detection, SIEM, and Incident Response<br>🎓 B.Sc. from Faculty of Computers and Informatics — Tanta University, Egypt<br>📍 Based in Egypt | Working remotely
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=21C42A&center=true&vCenter=true&width=800&lines=SOC+Analyst+%7C+Cybersecurity+Engineer;Product+Owner+%40+Dash+Logistics;Passionate+about+SIEM+%26+Threat+Detection;Faculty+of+Computers+%26+Informatics+Grad" alt="Typing SVG" />
-  </a>
-</div>
 
-<br/>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdalmegeed Alfeki) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdalmegeed29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdalmeged Alfiky‏) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdalmegedalfiky@gmail.com) 
 
-### 🧑‍💻 About Me
+# 💻 Tech Stack:
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abdalmegedalfiky-ops&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=abdalmegedalfiky-ops&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdalmegedalfiky-ops&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🔭 Currently working as **Product Owner @ Dash** (Last-Mile Delivery, Saudi Arabia)
-- 🛡️ Background in **SOC Analysis, Network Engineering, and Cybersecurity**
-- 🌱 Actively building skills in **Threat Detection, SIEM, and Incident Response**
-- 🎓 B.Sc. from **Faculty of Computers and Informatics** — Tanta University, Egypt
-- 📍 Based in Egypt | Working remotely
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abdalmegedalfiky-ops&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<br/>
+---
+[![](https://komarev.com/ghpvc/?username=abdalmegedalfiky-ops&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdalmegedalfiky-ops/abdalmegedalfiky-ops/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdalmegedalfiky-ops/abdalmegedalfiky-ops/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdalmegedalfiky-ops/abdalmegedalfiky-ops/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
-### 🏅 Certifications
-*(You can add your certification badges or links here)*
-
-<br/>
-
-### 🛠️ Tech Stack
-
-**Security & SIEM**  
-<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" /> <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=white" />
-
-**Systems & Cloud**  
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-**Programming & Scripting**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-
-<br/>
-
-### 📂 Featured Projects
-
-| Project | Description | Tags |
-|---------|-------------|------|
-| 🛡️ **[SOC-SIEM-ELK-Windows-Monitoring](https://github.com/abdalmegedalfiky-ops/SOC-SIEM-ELK-Windows-Monitoring)** | SIEM solution using ELK Stack to collect, analyze & visualize Windows logs with MITRE ATT&CK mapping. | `ELK` `SIEM` `SOC` |
-| 🔍 **[vulnerability-scan](https://github.com/abdalmegedalfiky-ops/vulnerability-scan)** | SOC Vulnerability Assessment Lab — Nessus + Metasploitable 2. | `Nessus` `Pentest` `SOC` |
-| 🎣 **[SOC-Phishing-THM](https://github.com/abdalmegedalfiky-ops/SOC-Phishing-THM)** | TryHackMe Lab: Phishing alert triage with ELK, MITRE ATT&CK mapping & bilingual docs. | `TryHackMe` `Phishing` `Blue-Team` |
-| 🔧 **[PenTerra](https://github.com/abdalmegedalfiky-ops/PenTerra)** | Cybersecurity platform: Keylogger, Traffic Analyzer, Network & Port Scanner (Graduation Project). | `Python` `Pentest` `Graduation Project` |
-
-<br/>
-
-### 🎯 Currently Focused On
-
-- 🔴 Threat Detection & Incident Response
-- 🔴 SIEM Engineering (ELK / Splunk)
-- 🔴 SOC Blue Team Operations
-- 🔴 TryHackMe Labs & CTF Challenges
-- 🔴 Bug Bounty Hunting (PortSwigger / HackerOne)
-
-> *"Security is not a product, but a process."* — Bruce Schneier
-
-<br/>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdalmegedalfiky-ops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
