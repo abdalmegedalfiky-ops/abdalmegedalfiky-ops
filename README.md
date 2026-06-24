@@ -18,16 +18,29 @@
 
 <br/>
 
-### 🛠️ Tech Stack & Certifications
+### 📫 How to reach me
 
-**Security & SIEM**  
-<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" /> <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Purview-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<div align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://abdalmegedalfiky-ops.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-**Systems & Networking**  
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Fortinet-C8102E?style=for-the-badge&logo=fortinet&logoColor=white" />
+<br/>
 
-**Programming & Scripting**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+### 🛠️ Tech Stack & Tools
+
+**Security & SIEM** <img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" /> <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" /> <img src="https://img.shields.io/badge/Nessus-000000?style=for-the-badge&logo=tenable&logoColor=white" /> <img src="https://img.shields.io/badge/Microsoft_Purview-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+**Systems & Networking** <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Fortinet-C8102E?style=for-the-badge&logo=fortinet&logoColor=white" />
+
+**Programming & Scripting** <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 <br/>
 
@@ -60,3 +73,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abdalmegedalfiky-ops&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdalmegedalfiky-ops&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalmegedalfiky-ops&layout=compact&theme=tokyonight&hide_border=true" alt="
