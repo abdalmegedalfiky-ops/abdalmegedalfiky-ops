@@ -8,6 +8,18 @@
 
 <br/>
 
+### 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdalmegedalfiky-ops/abdalmegedalfiky-ops/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdalmegedalfiky-ops/abdalmegedalfiky-ops/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdalmegedalfiky-ops/abdalmegedalfiky-ops/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
 ### 🧑‍💻 About Me
 
 - 🔭 Currently working as **Product Owner @ Dash** (Last-Mile Delivery, Saudi Arabia).
@@ -78,16 +90,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalmegedalfiky-ops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br/>
-
-### 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdalmegedalfiky-ops/abdalmegedalfiky-ops/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdalmegedalfiky-ops/abdalmegedalfiky-ops/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdalmegedalfiky-ops/abdalmegedalfiky-ops/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
