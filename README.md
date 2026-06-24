@@ -1,14 +1,11 @@
 # 💫 About Me:
 🔭 Currently working as Product Owner @ Dash (Last-Mile Delivery, Saudi Arabia)<br>🛡️ Background in SOC Analysis, Network Engineering, and Cybersecurity<br>🌱 Actively building skills in Threat Detection, SIEM, and Incident Response<br>🎓 B.Sc. from Faculty of Computers and Informatics — Tanta University, Egypt<br>📍 Based in Egypt | Working remotely
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdalmegedalfiky-ops/abdalmegedalfiky-ops/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdalmegedalfiky-ops/abdalmegedalfiky-ops/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdalmegedalfiky-ops/abdalmegedalfiky-ops/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdalmegedalfiky-ops/abdalmegedalfiky-ops/output/github-contribution-grid-snake-dark.svg" />
+</p>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdalmegeed Alfeki) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdalmegeed29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdalmeged Alfiky‏) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdalmegedalfiky@gmail.com) 
 
