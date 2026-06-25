@@ -11,19 +11,19 @@ on:
     - cron: "0 0 * * *"   # يوميًا
   workflow_dispatch: {}
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     name: Generate 3D contribution image
     steps:
+      - uses: actions/checkout@v5
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: abdalmegedalfiky-ops
-          style: flat
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit & push generated images
         run: |
           git config user.name "github-actions[bot]"
