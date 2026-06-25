@@ -1,26 +1,156 @@
-# 💫 About Me:
-🔭 Currently working as Product Owner @ Dash (Last-Mile Delivery, Saudi Arabia)<br>🛡️ Background in SOC Analysis, Network Engineering, and Cybersecurity<br>🌱 Actively building skills in Threat Detection, SIEM, and Incident Response<br>🎓 B.Sc. from Faculty of Computers and Informatics — Tanta University, Egypt<br>📍 Based in Egypt | Working remotely
+<div align="center">
 
-## 🐍 Contribution Snake
+<!-- ===================== BANNER (custom, no third-party render service) ===================== -->
+<img src="assets/banner/cyber-banner.svg" alt="Abdalmeged Alfiky — Cybersecurity Engineer | SOC Analyst | Product Owner" width="100%"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdalmegedalfiky-ops/abdalmegedalfiky-ops/output/github-contribution-grid-snake-dark.svg" />
+<!-- ===================== TYPING ANIMATION ===================== -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;SOC+Analyst+%7C+Detection+Engineer;Threat+Hunter+%7C+Blue+Team;Incident+Response+%7C+DFIR;AI+Powered+SOAR+Builder;Product+Owner+%40+Dash;ELK+Stack+%7C+MITRE+ATT%26CK" alt="Typing SVG" />
+</a>
+
+<!-- ===================== BADGES ===================== -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=abdalmegedalfiky-ops&style=flat-square&color=00ff88&label=Profile+Views" />
+  <img src="https://img.shields.io/github/followers/abdalmegedalfiky-ops?style=flat-square&color=00ff88&label=Followers" />
+  <img src="https://img.shields.io/github/stars/abdalmegedalfiky-ops?style=flat-square&color=00ff88&label=Stars" />
 </p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abdalmegeed Alfeki) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdalmegeed29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abdalmeged Alfiky‏) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdalmegedalfiky@gmail.com) 
+<p>
+  <a href="https://www.linkedin.com/in/abdalmeged-alfiky"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://abdalmegedalfiky-ops.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=githubpages&logoColor=00ff88"/></a>
+  <a href="mailto:abdalmegedalfiky@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00ff88"/></a>
+</p>
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=abdalmegedalfiky-ops&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=abdalmegedalfiky-ops&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdalmegedalfiky-ops&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdalmegedalfiky-ops&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=abdalmegedalfiky-ops&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### `root@security:~$ whoami`
+
+```text
+> Abdalmeged Alfiky
+> Role:        SOC Analyst / Cybersecurity Engineer / Product Owner
+> Based in:    Tanta, Gharbia, Egypt
+> Education:   B.Sc. Computer Science — Tanta University
+> Focus:       Detection Engineering · AI Security · SOAR · Threat Hunting
+> Status:      [ONLINE] Building secure systems & shipping product
+```
+
+## 🧭 About Me
+
+I'm a Product Owner at **Dash** (a Saudi last-mile delivery aggregator), with a background that bridges **cybersecurity, networking, and systems administration**. I started in network engineering and SOC/technical support, moved through Egyptian Army Signal Corps service, and now combine that hands-on security depth with product strategy.
+
+On the side, I build practical security tooling — SIEM pipelines, AI-assisted SOAR platforms, and vulnerability-management labs — and document everything publicly as part of my learning process.
+
+- 🛡️ SOC fundamentals: log analysis, detection engineering, incident response
+- 🤖 Currently exploring how LLMs (Claude API) can augment SOC workflows (enrichment, triage, auto-response)
+- 📦 Product Owner experience translating technical/security constraints into roadmaps
+- 🌍 Native Arabic (Egyptian) speaker, technical English documentation
+
+## 🎯 Current Focus
+
+```yaml
+detection_engineering: active
+ai_security:           active
+soar_automation:       active
+threat_hunting:        ongoing
+product_strategy:      active   # Dash Logistics Hub
+```
+
+## 🧰 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/PowerShell-0d1117?style=for-the-badge&logo=powershell&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=00ff88"/>
+</p>
+
+## 🛡️ Cybersecurity Skills
+
+<p>
+  <img src="https://img.shields.io/badge/ELK_Stack-0d1117?style=flat-square&logo=elastic&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-0d1117?style=flat-square&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Sysmon-0d1117?style=flat-square&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/OpenVAS-0d1117?style=flat-square&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Threat_Hunting-0d1117?style=flat-square&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/DFIR-0d1117?style=flat-square&logoColor=00ff88"/>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdalmegedalfiky-ops&show_icons=true&theme=react&bg_color=0d1117&title_color=00ff88&icon_color=00ffaa&text_color=c9d1d9&border_color=00ff88" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalmegedalfiky-ops&theme=react&background=0d1117&ring=00ff88&fire=00ffaa&currStreakLabel=00ff88&border=00ff88" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalmegedalfiky-ops&layout=compact&theme=react&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9&border_color=00ff88" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdalmegedalfiky-ops&theme=react-dark&bg_color=0d1117&color=00ff88&line=00ffaa&point=ffffff&border=00ff88" />
+</p>
+
+<!-- Contribution Snake — generated by .github/workflows/snake.yml -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdalmegedalfiky-ops/abdalmegedalfiky-ops/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+</p>
+
+<!-- 3D Contribution Image — generated daily by .github/workflows/skyline.yml -->
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph"/>
+</p>
+
+<!-- Visitor Counter — live badge, no workflow needed (already in header badges above) -->
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **PhantomGuard** | AI-powered SOAR platform integrating Claude API with ELK Stack — confidence-gated auto-response, MITRE ATT&CK enrichment | Flask, ELK, SQLite, Claude API |
+| **SOC-SIEM-ELK-Windows-Monitoring** | ELK Stack SIEM deployment with detection rules mapped to MITRE ATT&CK (T1110, T1078, T1068, T1136, T1531) | Elasticsearch, Kibana, Filebeat |
+| **SOC-Phishing-THM** | Bilingual phishing investigation lab with MITRE ATT&CK mapping (TryHackMe SOC Simulator) | SOC Playbooks |
+| **PenTerra** | Multi-module Python cybersecurity platform (graduation project) — keylogging, traffic analysis, network/port scanning | Python, Tkinter |
+
+## 🎓 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/CCNA-0d1117?style=flat-square&logo=cisco&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/RHCSA-0d1117?style=flat-square&logo=redhat&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/Red_Hat_OpenShift-0d1117?style=flat-square&logo=redhatopenshift&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/AWS_Advanced_Networking-0d1117?style=flat-square&logo=amazonaws&logoColor=00ff88"/>
+  <img src="https://img.shields.io/badge/ISC2_CC-0d1117?style=flat-square&logoColor=00ff88"/>
+</p>
+
+## 🗺️ Learning Roadmap
+
+- [ ] Detection Engineering (Sigma / YARA rule authoring)
+- [ ] Purple Team methodology
+- [ ] Malware Analysis fundamentals
+- [ ] Cloud Security (AWS/Azure)
+- [ ] Kubernetes Security
+- [ ] Threat Intelligence platforms
+- [ ] AI Security / LLM red-teaming
+
+## 📡 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/abdalmeged-alfiky"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff88"/></a>
+  <a href="https://abdalmegedalfiky-ops.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=00ff88"/></a>
+  <a href="mailto:abdalmegedalfiky@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88"/></a>
+</p>
+
+<div align="center">
+
+> *"Detection is better than reaction. Logs never lie."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff88&height=100&section=footer"/>
+
+</div>
